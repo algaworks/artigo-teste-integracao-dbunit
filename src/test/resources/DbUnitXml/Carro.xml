@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dataset>
+	<carro codigo="1" placa="AAA-1111" anoFabricacao="2014" />
+	<carro codigo="2" placa="AAA-1112" anoFabricacao="2013" />
+	<carro codigo="3" placa="AAA-1113" anoFabricacao="2012" />
+	<carro codigo="4" placa="AAA-1114" anoFabricacao="2014" />
+	<carro codigo="5" placa="AAA-1115" anoFabricacao="2011" />
+	<carro codigo="6" placa="AAA-1116" anoFabricacao="2010" />
+	<carro codigo="7" placa="AAA-1117" anoFabricacao="2010" />
+</dataset>
